@@ -5,10 +5,10 @@ var bubble2 = document.getElementById("bubble2");
 var bubble3 = document.getElementById("bubble3");
 var bubble4 = document.getElementById("bubble4");
 
-// bubble1.style.display = "none";
-// bubble2.style.display = "none";
-// bubble3.style.display = "none";
-// bubble4.style.display = "none";
+bubble1.style.display = "block";
+bubble2.style.display = "none";
+bubble3.style.display = "none";
+bubble4.style.display = "none";
 
 
 // Message boxes

@@ -44,7 +44,6 @@ function writeMessage(string, messageBox) {
   }, 100); 
 }
 
-
 writeMessage(message1Text, message1Box);
 
 setTimeout(function(){
